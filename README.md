@@ -6,8 +6,6 @@ Slot XKE Kotlin Android Springboot Avril 2016
 
 [Google Slides]()
 
-[Workshop]()
-
-[Coming Soon: Complete Sensor Kotlin Android app]()
+[Workshop](workshop/android)
 
 > Initialy made by blacroix and mnantern
