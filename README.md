@@ -6,6 +6,6 @@ Slot XKE Kotlin Android Springboot Avril 2016
 
 [Google Slides]()
 
-[Workshop](workshop/android)
+[Workshop](workshop/README.md)
 
 > Initialy made by blacroix and mnantern
