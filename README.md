@@ -2,7 +2,7 @@
 
 Slot XKE Kotlin Android Springboot Avril 2016
 
-## Ressources
+## Resources
 
 [Google Slides]()
 
