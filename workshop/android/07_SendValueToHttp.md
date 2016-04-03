@@ -24,17 +24,19 @@ Use a new [Thread](http://developer.android.com/reference/java/lang/Thread.html)
 >
 > Use [string interpolation](https://kotlinlang.org/docs/reference/idioms.html#string-interpolation) to easily generate JSON.
 
-**POST** sensor **value**, **type**, **eventTime** and **smartphoneId** to [APIary](https://apiary.io/) every *2 seconds*.
+**POST** sensor **value**, **type**, **eventTime** and **smartphoneId** to `http://private-anon-772e55d6a-mnantern.apiary-mock.com/data` every *2 seconds*.
+
+You can view the result of your request on [apiary](http://docs.mnantern.apiary.io/traffic).
 
 Example:
 
 `
-  {
+  [{
     "smartphoneId": "blacroix",
     "type": "BRIGHTNESS",
     "eventTime": "2016-02-12T17:31:38Z",
     "value": "37"
-  }
+  }]
 `
 
 > Kotlin Tips
