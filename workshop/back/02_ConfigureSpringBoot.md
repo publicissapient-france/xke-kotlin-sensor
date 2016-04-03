@@ -7,6 +7,7 @@ It's easy to integrate Kotlin and Spring Boot.
 For example: [Creating a RESTful Web Service with Spring Boot](https://kotlinlang.org/docs/tutorials/spring-boot-restful.html)
 
 We have 2 things to do:
+
 1. Change `build.gradle`
 2. Create a class `Application` to launch Spring Boot
 
