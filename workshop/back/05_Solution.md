@@ -8,6 +8,6 @@ You can find a solution [in my GitHub](https://github.com/mNantern/xke-kotlin/tr
 git clone https://github.com/mNantern/xke-kotlin.git
 ```
 
-Previous: [Project Creation](04_CreateController.md)
+Previous: [Create Controller](04_CreateController.md)
 
 :horse:

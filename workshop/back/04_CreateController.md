@@ -41,8 +41,8 @@ Data(smartphoneId=f98e9b49-8911-4e87-87f8-723588c2b09e, type=ACCELEROMETER, even
 
 If you want to try your controller you can download the [Android application](https://github.com/mNantern/formation-cassandra/releases/download/AppMobile/cassandra_iot_5.apk)
 
-Previous: [Project Creation](03_AddDataClass.md)
+Previous: [Create Data Class](03_AddDataClass.md)
 
-Next: [Spring Boot Configuration](05_Solution.md)
+Next: [Solution](05_Solution.md)
 
 :horse:
