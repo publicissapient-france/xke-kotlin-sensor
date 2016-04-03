@@ -46,6 +46,5 @@ Well done! You finished level 1 of workshop :horse:
 
 You can now:
 
-1. [Continue with Kotlin with Springboot](../back/01_CreateProject.md)
-
+1. [Continue Kotlin with Springboot](../back/01_CreateProject.md)
 2. [Enhance current Android application](08_ExtraAndroidApplication.md)
