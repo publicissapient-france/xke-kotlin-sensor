@@ -12,6 +12,7 @@ We will need the following values in our Data class:
 | value  | String  |
 
 Previous: [Project Creation](02_ConfigureSpringBoot.md)
+
 Next: [Spring Boot Configuration](04_CreateController.md)
 
 :horse:
