@@ -22,7 +22,7 @@ Use a new [Thread](http://developer.android.com/reference/java/lang/Thread.html)
 > Kotlin Tips
 > Use [string interpolation](https://kotlinlang.org/docs/reference/idioms.html#string-interpolation) to easily generate JSON.
 
-*POST* sensor *value*, *type* and *id* to [APIary](https://apiary.io/).
+*POST* sensor *value*, *type* and *id* to [APIary](https://apiary.io/) every *2 seconds*.
 
 Example:
 
@@ -36,6 +36,8 @@ Example:
 
 > Kotlin Tips
 > Use [companion object](https://kotlinlang.org/docs/reference/object-declarations.html#companion-objects) to set APIary as constant.
+
+To be able to delay an action you can use [Handler](http://developer.android.com/reference/android/os/Handler.html).
 
 Well done! You finished level 1 of workshop :horse:
 
