@@ -18,4 +18,4 @@
 1. Open `app/build.gradle`
 2. Apply plugin `kotlin-android-extensions`
 
-When project synced go to [next step](03_ConvertJavaClassToKotlin.md)
+When project synced go to [convert Java class to Kotlin](03_ConvertJavaClassToKotlin.md)

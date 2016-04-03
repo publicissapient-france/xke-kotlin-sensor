@@ -4,7 +4,7 @@ Before continuing be careful to have [necessary tools](https://docs.google.com/d
 
 ## Create Android project
 
-1. Open *Android Studio*
+1. Open **Android Studio**
 2. Click on menu `Start a new Android Studio project`
 3. Define `Application name`, `Company Domain` and `Project location` as you want
 4. Keep `Target Android Devices` as defined
@@ -12,4 +12,4 @@ Before continuing be careful to have [necessary tools](https://docs.google.com/d
 6. Keep `Customize the Activity` as defined
 7. Wait for `gradle`... takes time to download stuffs!
 
-When project opens go to [next step](02_ConfigureKotlinProject.md)
+When project opens go to [configure Kotlin](02_ConfigureKotlinProject.md)

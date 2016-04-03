@@ -9,4 +9,4 @@ To display things on screen you can use [TextView](http://developer.android.com/
 
 If you run application you should see the `TextView`.
 
-In the [next step](05_GetSensorValue.md) we will get the sensor value.
+Now, go to [get sensor value](05_GetSensorValue.md).
