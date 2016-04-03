@@ -39,9 +39,7 @@ Data(smartphoneId=f98e9b49-8911-4e87-87f8-723588c2b09e, type=BRIGHTNESS, eventTi
 Data(smartphoneId=f98e9b49-8911-4e87-87f8-723588c2b09e, type=ACCELEROMETER, eventTime=2016-03-22T06:42:06Z, value=-0.19613299;0.1176798;9.80665)
 ```
 
-If you want to try your controller you can download the following Apps:
-
-* [Android](https://github.com/mNantern/formation-cassandra/releases/download/AppMobile/cassandra_iot_5.apk)
+If you want to try your controller you can download the [Android application](https://github.com/mNantern/formation-cassandra/releases/download/AppMobile/cassandra_iot_5.apk)
 
 Previous: [Project Creation](03_AddDataClass.md)
 
