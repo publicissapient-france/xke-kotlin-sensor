@@ -20,6 +20,7 @@ brew install gradle
 
 * Gradle JVM : 1.8
 
+:warning: In your `build.gradle` (repositories) replace `mavenCentral()` by `jcenter()`
 
 Next: [Spring Boot Configuration](02_ConfigureSpringBoot.md)
 
