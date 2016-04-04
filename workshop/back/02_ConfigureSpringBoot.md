@@ -52,6 +52,6 @@ compile 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.6.1'
 
 Previous: [Project Creation](01_CreateProject.md)
 
-Next: [Spring Boot Configuration](03_AddDataClass.md)
+Next: [Add a Data Class](03_AddDataClass.md)
 
 :horse:
